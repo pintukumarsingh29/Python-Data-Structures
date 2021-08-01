@@ -12,7 +12,6 @@ def bubble_sort(arr):
         if flag == 0:
             print("Already Swapped")
             break
-            
 
 
 arr = []
